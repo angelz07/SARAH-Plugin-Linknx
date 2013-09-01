@@ -1,0 +1,19 @@
+.plugin-gridster.linknx .text {
+  background: #33A3EC;
+  left: 0; width: 100%; 
+  display: block;
+  text-align: center;
+}
+
+.plugin-gridster.linknx .logo {
+  left: 10px; 
+  width: 100%;
+  top: -10px; 
+}
+
+.plugin-gridster.linknx .logo2 {
+  position: absolute;
+  top: 120px; 
+  left: 5px; 
+  width: 100%; 
+}
